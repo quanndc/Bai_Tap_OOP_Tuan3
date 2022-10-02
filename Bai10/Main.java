@@ -1,8 +1,5 @@
 package Bai10;
 
-import javax.swing.plaf.synth.SynthDesktopIconUI;
-import javax.swing.plaf.synth.SynthOptionPaneUI;
-
 import Bai10.ThiSinh.ThiSinh;
 import Bai10.TruongDH.TruongDH;
 
